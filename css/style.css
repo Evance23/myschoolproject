@@ -1,3 +1,4 @@
+/* //ndex.html */ 
 body {
     margin: auto;
   width: 80%;
@@ -19,3 +20,12 @@ p {
     background-color: aqua;
     list-style: none;
 }
+/* //about me */
+
+.dddd {
+    margin: auto;
+  width: 80%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
