@@ -1,4 +1,21 @@
-
+body {
+    margin: auto;
+  width: 80%;
+  border: 3px solid green;
+  padding: 10px;
+}
 h1  {
     text-align: center;
+}
+
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.languages {
+    padding: 6px 6px 8px 1px;
+    background-color: aqua;
+    list-style: none;
 }
